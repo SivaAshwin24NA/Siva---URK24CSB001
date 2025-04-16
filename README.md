@@ -1,4 +1,4 @@
 # Siva---URK24CSB001
 
 I'm currently pursuing B.Tech CSE in Karuya Institute of Technology and Sciences
-Efficient in Pyhton Programming
+Efficient in Pyhton Programming , DSA
